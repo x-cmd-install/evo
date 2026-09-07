@@ -5,13 +5,13 @@ about:
   head: ab5fbd6
   archived: false
   latestVersion: "v0.8.0"
-  collectedAt: 2026-09-07T05:06:40Z
+  collectedAt: 2026-09-07T19:18:19Z
 timeline:
   created: 2026-04-05
   lastCommit: 2026-07-17
   lastRelease: 2026-07-17
 popularity:
-  star: 1442
+  star: 1444
   watcher: 3
   fork: 109
   release: 59
@@ -85,7 +85,7 @@ total:
   commit: 458
 ---
 path: /home/runner/.x-repo/github.com/evo-hq/evo
-collectedAt: 2026-09-07T05:06:42Z
+collectedAt: 2026-09-07T19:18:21Z
 loc:
   Python:
     code: 48583
@@ -156,7 +156,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:06:43+00:00
+  collectedAt: 2026-09-07T19:18:22+00:00
   platform:
     darwin/arm64:
       name:  evo-hook-drain-darwin
