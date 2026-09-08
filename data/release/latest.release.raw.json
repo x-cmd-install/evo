@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 242688,
       "digest": "sha256:5143db5108121fa72313a105c15cae775b34c5ff45eb20e3369433d28b210c77",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-07-17T16:57:14Z",
       "updated_at": "2026-07-17T16:57:14Z",
       "browser_download_url": "https://github.com/evo-hq/evo/releases/download/v0.8.0/evo-hook-drain-windows-amd64.exe"
