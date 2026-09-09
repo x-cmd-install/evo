@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 681872,
       "digest": "sha256:cc82ea0e551d91f56fee361cc7531a63a67b8c7c8661461a951c852b500938ab",
-      "download_count": 51,
+      "download_count": 52,
       "created_at": "2026-07-17T16:57:14Z",
       "updated_at": "2026-07-17T16:57:14Z",
       "browser_download_url": "https://github.com/evo-hq/evo/releases/download/v0.8.0/evo-hook-drain-darwin"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 463440,
       "digest": "sha256:3bba3e4cb9e135ef5befeafb63554536f0df0115152b79c36f444c9525b2861e",
-      "download_count": 135,
+      "download_count": 136,
       "created_at": "2026-07-17T16:57:14Z",
       "updated_at": "2026-07-17T16:57:14Z",
       "browser_download_url": "https://github.com/evo-hq/evo/releases/download/v0.8.0/evo-hook-drain-linux-amd64"
