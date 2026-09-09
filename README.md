@@ -7,7 +7,7 @@ turns your codebase into an autoresearch loop — discovers what to measure, ins
 - **Latest release**: `v0.8.0` (2026-07-17)
 - **Last commit**: 2026-07-17
 - **License**: Apache-2.0
-- **Stars**: 1446 · **Forks**: 109 · **Open issues**: 37 · **Contributors**: 4
+- **Stars**: 1447 · **Forks**: 109 · **Open issues**: 37 · **Contributors**: 4
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/evo> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:25:19Z._
+_Last regenerated: 2026-09-09T05:15:36Z._
