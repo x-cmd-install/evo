@@ -12,6 +12,18 @@ turns your codebase into an autoresearch loop — discovers what to measure, ins
 x install evo
 ```
 
+## Code insight
+
+Total: **66,495** lines of code across **190** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 48,583 | 3,466 | 7,127 | 161 |
+| JavaScript | 11,760 | 999 | 378 | 19 |
+| Css | 3,095 | 159 | 62 | 2 |
+| TypeScript | 1,431 | 442 | 132 | 7 |
+| Rust | 588 | 126 | 58 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/evo-hq/evo>
@@ -23,7 +35,6 @@ x install evo
 - **Latest**: `v0.8.0` (2026-07-17)
 - **Last commit**: 2026-07-17
 - **Assets in release**: 5
-- **Published**: 2026-07-17T16:57:14Z
 
 ## Popularity
 
@@ -38,28 +49,29 @@ x install evo
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 14 | 0 | 7 | 0 |
+| last60d | 2026-07-12 | 2 | 1 | 16 | 0 | 7 | 1 |
 | 90d | 2026-06-12 | 14 | 7 | 18 | 0 | 8 | 25 |
+| last180d | 2026-03-14 | 59 | 40 | 21 | 21 | 16 | 429 |
 | 360d | 2025-09-15 | 59 | 40 | 21 | 21 | 16 | 429 |
+| last720d | 2024-09-20 | 59 | 40 | 21 | 21 | 16 | 458 |
 
-## Code size
+## Release assets
 
-Total: **66,495** lines of code across **190** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 48,583 | 3,466 | 7,127 | 161 |
-| JavaScript | 11,760 | 999 | 378 | 19 |
-| Css | 3,095 | 159 | 62 | 2 |
-| TypeScript | 1,431 | 442 | 132 | 7 |
-| Rust | 588 | 126 | 58 | 1 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [evo-hook-drain-darwin](https://github.com/evo-hq/evo/releases/download/v0.8.0/evo-hook-drain-darwin) | 665.9 KiB | `native/darwin/x64` |
+| [evo-hook-drain-linux-amd64](https://github.com/evo-hq/evo/releases/download/v0.8.0/evo-hook-drain-linux-amd64) | 452.6 KiB | `native/linux/x64` |
+| [evo-hook-drain-linux-arm64](https://github.com/evo-hq/evo/releases/download/v0.8.0/evo-hook-drain-linux-arm64) | 452.1 KiB | `native/linux/arm64` |
+| [evo-hook-drain-windows-amd64.exe](https://github.com/evo-hq/evo/releases/download/v0.8.0/evo-hook-drain-windows-amd64.exe) | 237.0 KiB | `native/win/x64` |
+| [evo-hook-drain-windows-arm64.exe](https://github.com/evo-hq/evo/releases/download/v0.8.0/evo-hook-drain-windows-arm64.exe) | 216.5 KiB | `native/win/arm64` |
 
 ## Improve this data
 
 Install metadata for evo lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `evo` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/evo.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/evo.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:13:36Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:42:45Z._
