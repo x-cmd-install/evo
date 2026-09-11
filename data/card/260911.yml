@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.0"
   latestRelease: "v0.8.0"
   latestPrerelease: "v0.7.1-alpha.1"
-  collectedAt: 2026-09-11T05:27:35Z
+  collectedAt: 2026-09-11T19:35:27Z
 timeline:
   created: 2026-04-05
   lastCommit: 2026-07-17
@@ -89,7 +89,7 @@ total:
   commit: 458
 ---
 path: /home/runner/.x-repo/github.com/evo-hq/evo
-collectedAt: 2026-09-11T05:27:38Z
+collectedAt: 2026-09-11T19:35:28Z
 loc:
   Python:
     code: 48583
