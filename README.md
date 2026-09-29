@@ -38,7 +38,7 @@ Total: **66,495** lines of code across **190** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,460 · **Forks**: 112 · **Open issues**: 37 · **Contributors**: 4
+- **Stars**: 1,461 · **Forks**: 112 · **Open issues**: 37 · **Contributors**: 4
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **66,495** lines of code across **190** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 15 | 0 | 7 | 0 |
-| 90d | 2026-06-30 | 7 | 2 | 18 | 0 | 8 | 1 |
-| last180d | 2026-04-01 | 59 | 40 | 22 | 21 | 16 | 412 |
-| 360d | 2025-10-03 | 59 | 40 | 22 | 21 | 16 | 429 |
-| last720d | 2024-10-08 | 59 | 40 | 22 | 21 | 16 | 458 |
+| 30d | 2026-08-30 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-31 | 0 | 0 | 15 | 0 | 7 | 0 |
+| 90d | 2026-07-01 | 6 | 1 | 18 | 0 | 8 | 1 |
+| last180d | 2026-04-02 | 59 | 40 | 22 | 21 | 16 | 412 |
+| 360d | 2025-10-04 | 59 | 40 | 22 | 21 | 16 | 429 |
+| last720d | 2024-10-09 | 59 | 40 | 22 | 21 | 16 | 458 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for evo lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:54:00Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:18:36Z._
