@@ -14,11 +14,11 @@ x install evo
 
 ## Code insight
 
-Total: **66,495** lines of code across **190** files in the top 5 languages.
+Total: **66,658** lines of code across **190** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 48,583 | 3,466 | 7,127 | 161 |
+| Python | 48,746 | 3,493 | 7,146 | 161 |
 | JavaScript | 11,760 | 999 | 378 | 19 |
 | Css | 3,095 | 159 | 62 | 2 |
 | TypeScript | 1,431 | 442 | 132 | 7 |
@@ -33,27 +33,27 @@ Total: **66,495** lines of code across **190** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.0` (2026-07-17)
-- **Last commit**: 2026-07-17
+- **Last commit**: 2026-10-05
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 1,461 · **Forks**: 114 · **Open issues**: 37 · **Contributors**: 4
+- **Stars**: 1,461 · **Forks**: 114 · **Open issues**: 37 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 40 · **Open PRs**: 24 · **Closed issues**: 21 · **Open issues**: 16 · **Commits**: 458
+- **Releases**: 59 · **Merged PRs**: 42 · **Open PRs**: 22 · **Closed issues**: 21 · **Open issues**: 16 · **Commits**: 460
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-08-06 | 0 | 0 | 17 | 0 | 7 | 0 |
-| 90d | 2026-07-07 | 2 | 1 | 19 | 0 | 7 | 1 |
-| last180d | 2026-04-08 | 59 | 40 | 24 | 21 | 16 | 402 |
-| 360d | 2025-10-10 | 59 | 40 | 24 | 21 | 16 | 429 |
-| last720d | 2024-10-15 | 59 | 40 | 24 | 21 | 16 | 458 |
+| 30d | 2026-09-06 | 0 | 2 | 1 | 0 | 0 | 2 |
+| last60d | 2026-08-07 | 0 | 2 | 15 | 0 | 7 | 2 |
+| 90d | 2026-07-08 | 2 | 3 | 17 | 0 | 7 | 3 |
+| last180d | 2026-04-09 | 59 | 42 | 22 | 21 | 16 | 404 |
+| 360d | 2025-10-11 | 59 | 42 | 22 | 21 | 16 | 431 |
+| last720d | 2024-10-16 | 59 | 42 | 22 | 21 | 16 | 460 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for evo lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:07:07Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:53:03Z._
