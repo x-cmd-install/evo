@@ -48,12 +48,12 @@ Total: **66,658** lines of code across **190** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-16 | 0 | 2 | 1 | 0 | 0 | 2 |
-| 90d | 2026-08-17 | 0 | 2 | 15 | 0 | 7 | 2 |
-| last180d | 2026-05-19 | 39 | 24 | 20 | 9 | 11 | 172 |
-| 360d | 2025-11-20 | 59 | 42 | 20 | 21 | 16 | 431 |
-| last720d | 2024-11-25 | 59 | 42 | 20 | 21 | 16 | 460 |
+| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-17 | 0 | 2 | 1 | 0 | 0 | 2 |
+| 90d | 2026-08-18 | 0 | 2 | 15 | 0 | 7 | 2 |
+| last180d | 2026-05-20 | 37 | 24 | 20 | 9 | 11 | 172 |
+| 360d | 2025-11-21 | 59 | 42 | 20 | 21 | 16 | 431 |
+| last720d | 2024-11-26 | 59 | 42 | 20 | 21 | 16 | 460 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for evo lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:13:26Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:12:30Z._
